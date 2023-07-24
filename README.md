@@ -1,1 +1,2 @@
 # jenkins-pipelines
+multibranch pipeline
